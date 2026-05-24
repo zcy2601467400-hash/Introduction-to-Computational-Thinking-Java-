@@ -1,0 +1,30 @@
+{
+	"folders": [
+		{
+			"path": "../../Java code/Java code"
+		},
+		{
+			"path": "../../#C Code"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"java.project.sourcePaths": [
+			"ps9",
+			"ps8",
+			"ps7",
+			"ps6",
+			"ps5",
+			"ps4",
+			"ps3",
+			"testcode"
+		],
+		"java.project.outputPath": "bin",
+		"java.project.referencedLibraries": [
+			"lib/**/*.jar"
+		],
+		"java.debug.settings.onBuildFailureProceed": true
+	}
+}

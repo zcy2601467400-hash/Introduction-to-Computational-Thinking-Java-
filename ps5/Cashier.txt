@@ -1,0 +1,5 @@
+The Discussion Question:
+For example,
+to make 6 pence, the greedy algorithm might use one 4-pence coin and two 1-pence coins (3 coins total), 
+but the optimal solution is two 3-pence coins (2 coins total). 
+This demonstrates that greedy algorithms don’t work for all currency systems.​​​​​​​​​​​​​​​​
