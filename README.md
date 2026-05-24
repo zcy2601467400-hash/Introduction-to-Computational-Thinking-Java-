@@ -9,3 +9,5 @@
 ## Assignment 8 (PS8): 2D Arrays, Scientific Computing, Search Loops
 ## Assignment 9 (PS9): Data Type and Digital Audio
 ## Assignment 10 (PS10): Classes, Inheritance, Objects, Event-Driven Programming
+
+Here is the course website:https://sngroup.org.cn/courses/ct-xmuf25/assignments.shtml
